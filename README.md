@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
