@@ -8,7 +8,6 @@ class Solution {
         }
         int n=sb.length();
         int p1=0,p2=sb.length()-1;
-       // char k[]=sb.toCharArray();
        while( p1<=p2){
         if(sb.charAt(p1)==sb.charAt(p2)){
             p1++;
