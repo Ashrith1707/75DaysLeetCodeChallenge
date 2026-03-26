@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0461-hamming-distance) |
 ## Hash Table
 |  |
 | ------- |
