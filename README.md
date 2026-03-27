@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0461-hamming-distance) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
