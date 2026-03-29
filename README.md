@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
