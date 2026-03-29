@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
