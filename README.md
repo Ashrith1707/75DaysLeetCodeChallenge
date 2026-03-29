@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0466-count-the-repetitions](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0466-count-the-repetitions) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
@@ -120,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0466-count-the-repetitions](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0466-count-the-repetitions) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [0466-count-the-repetitions](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0466-count-the-repetitions) |
 ## Binary Search
 |  |
 | ------- |
