@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
 | ------- |
