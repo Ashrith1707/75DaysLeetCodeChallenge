@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0466-count-the-repetitions) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0466-count-the-repetitions](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0466-count-the-repetitions) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
