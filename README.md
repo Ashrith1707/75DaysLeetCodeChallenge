@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0466-count-the-repetitions) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
