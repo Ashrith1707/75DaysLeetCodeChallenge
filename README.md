@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0461-hamming-distance) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [1622-fancy-sequence](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 ## Design
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
