@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
