@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [1622-fancy-sequence](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 ## Design
 |  |
