@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0466-count-the-repetitions](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0466-count-the-repetitions) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
