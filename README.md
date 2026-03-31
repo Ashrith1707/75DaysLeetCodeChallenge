@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
 | ------- |
@@ -197,4 +198,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0459-repeated-substring-pattern) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
+## Greedy
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
