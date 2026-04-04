@@ -2,32 +2,24 @@ import java.util.*;
 
 class Solution {
 
-    static void gp(int idx, List<String> l, StringBuilder s, int i, int j, int n) {
-
-        // base case
-        if (idx == 2 * n) {
-            l.add(s.toString());
+    static void gp(int ind, int n, List<String> l, int open, int close, String curr) {
+        if (ind == 2 * n) {
+            l.add(curr);
             return;
         }
 
-        // add '('
-        if (i < n) {
-            s.append('(');
-            gp(idx + 1, l, s, i + 1, j, n);
-            s.deleteCharAt(s.length() - 1); // backtrack
+        if (open < n) {
+            gp(ind + 1, n, l, open + 1, close, curr + "(");
         }
 
-        // add ')'
-        if (j < i) {
-            s.append(')');
-            gp(idx + 1, l, s, i, j + 1, n);
-            s.deleteCharAt(s.length() - 1); // backtrack
+        if (close < open) {
+            gp(ind + 1, n, l, open, close + 1, curr + ")");
         }
     }
 
     public List<String> generateParenthesis(int n) {
         List<String> l = new ArrayList<>();
-        gp(0, l, new StringBuilder(), 0, 0, n);
+        gp(0, n, l, 0, 0, "");
         return l;
     }
 }
