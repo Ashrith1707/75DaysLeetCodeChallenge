@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
