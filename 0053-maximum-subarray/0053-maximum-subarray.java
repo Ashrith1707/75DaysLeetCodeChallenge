@@ -1,22 +1,16 @@
 class Solution {
-    int ans;
-
-    int solve(int ind, int[] nums) {
-        if (ind == 0) {
-            ans = nums[0];
-            return nums[0];
-        }
-
-        int prev = solve(ind - 1, nums);
-        int curr = Math.max(nums[ind], nums[ind] + prev);
-
-        ans = Math.max(ans, curr);
-        return curr;
-    }
-
     public int maxSubArray(int[] nums) {
-        ans = nums[0];
-        solve(nums.length - 1, nums);
-        return ans;
+        int n=nums.length;
+        int sum=0;
+        int max=Integer.MIN_VALUE;
+        for(int i=0;i<n;i++){
+            sum+=nums[i];
+            max=Math.max(sum,max);
+
+            if(sum<0){
+                sum=0;
+            }
+        }
+        return max;
     }
 }
