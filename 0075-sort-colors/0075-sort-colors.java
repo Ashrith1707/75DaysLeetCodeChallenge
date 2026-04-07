@@ -1,5 +1,6 @@
 class Solution {
     public void sortColors(int[] nums) {
+        //Dutch National Flag Algorithm
         int n=nums.length;
         int mid=0,low=0,high=n-1;
         while(mid<=high){
