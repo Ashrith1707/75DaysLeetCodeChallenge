@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
