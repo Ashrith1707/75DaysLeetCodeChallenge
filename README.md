@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [1622-fancy-sequence](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -236,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
