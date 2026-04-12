@@ -24,7 +24,7 @@ class Solution {
 
         int prev = word.charAt(0) - 'A';
 
-        for (int i = 1; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             int curr = word.charAt(i) - 'A';
 
             int[] next = new int[26];
