@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
