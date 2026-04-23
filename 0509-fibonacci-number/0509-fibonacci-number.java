@@ -1,8 +1,13 @@
 class Solution {
-    public int fib(int n) {
+    static int fibb(int n) {
         if(n<=1){
             return n;
         }
-        return fib(n-1)+fib(n-2);
+        return fibb(n-1)+fibb(n-2);
+    }
+    public int fib(int n) {
+    int dp[]=new int[n];
+    int k=fibb(n);
+    return k;
     }
 }
