@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1622-fancy-sequence](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0466-count-the-repetitions](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0466-count-the-repetitions) |
+| [0509-fibonacci-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Binary Search
 |  |
@@ -205,10 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
