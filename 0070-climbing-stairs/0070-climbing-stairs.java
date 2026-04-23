@@ -1,16 +1,25 @@
 class Solution {
-    public int climbStairs(int n) {
-        if (n <= 2) return n;
-        
-        int prev2 = 1; // f(1)
-        int prev1 = 2; // f(2)
-        
-        for (int i = 3; i <= n; i++) {
-            int curr = prev1 + prev2;
-            prev2 = prev1;
-            prev1 = curr;
+
+    static int fibb(int n, int dp[]) {
+        // Base case
+        if (n <= 2) {
+            return n;
         }
-        
-        return prev1;
+
+        // If already computed → reuse
+        if (dp[n] != -1) {
+            return dp[n];
+        }
+
+        // Compute + store (memoization step)
+        dp[n] = fibb(n - 1, dp) + fibb(n - 2, dp);
+
+        return dp[n];
     }
+    public int climbStairs(int n) {
+        int dp[] = new int[n + 1];   // size must be n+1
+        Arrays.fill(dp, -1);
+
+        return fibb(n, dp);
+}
 }
