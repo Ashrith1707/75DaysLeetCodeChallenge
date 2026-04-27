@@ -13,7 +13,7 @@ class Solution {
         return Math.max(case1, case2);
     }
 
-    private int robLinear(int[] nums, int start, int end) {
+    static int robLinear(int[] nums, int start, int end) {
         int prev2 = 0; // dp[i-2]
         int prev1 = 0; // dp[i-1]
 
