@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -256,9 +257,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Depth-First Search
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashrith1707/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
